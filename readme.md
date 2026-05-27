@@ -158,3 +158,17 @@ Siga os passos abaixo para configurar o ambiente local.
    npx sequelize-cli db:migrate
    ```
 3. **CI/CD:** Integração com GitHub Actions disponível em `.github/workflows/deploy.yml`.
+
+  
+# Project Events
+
+Sistema de gerenciamento de eventos desenvolvido como projeto integrador.
+
+## Equipe
+Projeto desenvolvido em colaboração com:
+- Érica Moreira
+- Gregori Crispim
+- Giorgianne Crispim
+- Karla Pereira
+- Murillo Junior
+  
