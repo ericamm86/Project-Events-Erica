@@ -32,6 +32,14 @@ Project Events Erica e uma API backend para gestao de eventos, participantes e a
 
 O sistema resolve a necessidade de controlar eventos, participantes e atividades em uma unica base, oferecendo autenticacao JWT, rotas REST e relacionamentos estruturados para cadastro, consulta, edicao e remocao das entidades.
 
+## Deploy
+
+Producao:
+
+```txt
+https://project-events-erica.vercel.app
+```
+
 ## Pacotes Utilizados
 
 | Pacote                  | Versão       | Descrição                                      |
