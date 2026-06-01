@@ -1,5 +1,7 @@
 # API Projeto Integrador - Gestão de Eventos
 
+Project Events Erica e uma API backend para gestao de eventos, participantes e atividades, centralizando cadastros e relacionamentos para organizar operacoes academicas, institucionais ou corporativas.
+
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-green.svg?logo=node.js)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-4.x-blue.svg?logo=express)](https://expressjs.com/)
 [![Sequelize](https://img.shields.io/badge/Sequelize-6.x-purple.svg?logo=sequelize)](https://sequelize.org/)
@@ -28,7 +30,7 @@
 
 ## Visão Geral
 
-API backend para centralizar e organizar a gestão de eventos, participantes e atividades (workshops, palestras, oficinas), com autenticação JWT e rotas de relacionamento. Permite cadastro, consulta, edição e remoção das entidades, além de evidenciar os relacionamentos obrigatórios.
+O sistema resolve a necessidade de controlar eventos, participantes e atividades em uma unica base, oferecendo autenticacao JWT, rotas REST e relacionamentos estruturados para cadastro, consulta, edicao e remocao das entidades.
 
 ## Pacotes Utilizados
 
